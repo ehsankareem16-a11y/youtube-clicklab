@@ -1,0 +1,6 @@
+{
+  "name": "YouTube ClickLab",
+  "description": "Free YouTube Title & Thumbnail Analyzer with instant local scoring, technical checks, and smart title improvement recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
